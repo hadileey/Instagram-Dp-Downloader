@@ -1,16 +1,108 @@
-# React + Vite
+# 📸 Insta DP Downloader
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Download Instagram Profile Pictures in **Full HD Quality** — instantly, securely, and anonymously.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ About the Project
 
-## React Compiler
+**Insta DP Downloader** is a modern and powerful web application that allows users to fetch and download **high-resolution Instagram profile pictures** using just a username or profile URL.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Designed with a **next-gen UI**, fast performance, and a privacy-first mindset.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔥 Key Features
+
+- 📷 **Original HD Quality**
+- ⚡ **Instant Fetch & Download**
+- 🔒 **No Login Required**
+- 🌐 **Mobile & Desktop Friendly**
+- 🎨 **Next-Gen UI using Tailwind CSS**
+- 🚫 **No User Data Stored**
+- 🧠 **Smart Username & URL Parsing**
+
+---
+
+## 🖥️ Live Preview
+
+> *(Add screenshots or a live demo link here)*
+
+---
+
+## 🧩 Tech Stack
+
+| Technology | Purpose |
+|----------|--------|
+| ⚛️ React (Vite) | Frontend Framework |
+| 🎨 Tailwind CSS | Styling |
+| 🚀 RapidAPI | Instagram Data Fetch |
+| 🌍 Weserv Proxy | Image Optimization |
+| 🧠 JavaScript (ES6+) | Application Logic |
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/insta-dp-downloader.git
+cd insta-dp-downloader
+```
+### 2️⃣ Install Dependencies
+```bash
+npm install
+```
+### 3️⃣ Configure Environment Variables
+Create a .env file in the root directory:
+
+```env
+VITE_RAPIDAPI_KEY=your_rapidapi_key
+VITE_RAPIDAPI_HOST=instagram120.p.rapidapi.com
+```
+### 4️⃣ Run the Application
+```bash
+Copy code
+npm run dev
+```
+### 🚀 App runs at:
+http://localhost:5173
+
+---
+
+### 🛡️ Privacy & Security
+- **No Instagram login required**
+
+- **No tracking or logging**
+
+- **Fully client-side interaction**
+
+- **Anonymous and secure downloads**
+
+### ❓ FAQ
+- **Does it work on mobile devices?**
+✅ Yes, fully responsive on all modern browsers.
+
+- **Can I download private account profile pictures?**
+✅ Yes.
+
+- **Is this affiliated with Instagram or Meta?**
+❌ No, this project is not affiliated with Instagram or Meta Platforms, Inc.
+
+---
+
+### 👨‍💻 Author
+**HADIL K K**<br>
+<i>🎓 B.E Computer Science Engineering<i><br>
+🏫 Kalaignarkarunanidhi Institute of Technology, Coimbatore
+
+### 📜 Disclaimer
+This project is created for educational purposes only.<br>
+Not affiliated with Instagram or Meta Platforms, Inc.
+
+### ⭐ Support
+If you found this project useful:
+<br><br>
+⭐ Star the repository<br>
+🍴 Fork it<br>
+📢 Share it with others
