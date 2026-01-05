@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body {
+  background-color: #ffffff;
+  color: #1a1a1b;
+  font-family: "DM Sans", sans-serif;
+}
+
+.border-dotted-thick {
+  border-style: dotted;
+  border-width: 2px;
+}
