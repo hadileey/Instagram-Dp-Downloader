@@ -170,7 +170,7 @@ export default function App() {
         </div>
 
         {data && (
-          <div className="mt-16 border-2 border-dotted border-[#1877F2] max-w-md mx-auto p-6 bg-white shadow-2xl">
+          <div className="mt-16 border-2 border-dotted border-[#1877F2] max-w-md mx-auto p-6 bg-white">
             <div className="border-2 border-[#1877F2] mb-6 bg-gray-100 aspect-square flex items-center justify-center overflow-hidden rounded-xl">
               <img
                 src={data.displayImage}
